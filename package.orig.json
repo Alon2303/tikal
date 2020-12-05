@@ -1,0 +1,19 @@
+{
+  "name": "tikal-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.5",
+    "moment-timezone": "^0.5.28",
+    "cookie-parser": "^1.4.5",
+    "body-parser": "^1.19.0",
+    "googleapis": "^48.0.0",
+    "dotenv": "^8.2.0"
+  }
+}
